@@ -1,0 +1,5 @@
+__pycache__/
+*/__pycache__/
+Spider/Tool/config_backup.py
+Spider/Log/*
+!Spider/Log/.gitkeep
